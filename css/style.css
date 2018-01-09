@@ -15,11 +15,12 @@ h1 {
 
 .arrow {
   display: inline-block;
+  margin: auto;
 }
 
 .container {
   margin: 0 auto;
-  width: 500px;
+  width: 35%;
 }
 
 .content {
@@ -36,14 +37,14 @@ h1 {
 }
 
 .location:hover {
-  background-color: #f5a623;
+  background-color: #a1a1a1;
 }
 
 nav {
-  background-color: #4a4a4a;
-  padding: 10px 0 10px 15px;
+  background-color: #000;
+  padding: 18px 18px 18px 20px;
   position: fixed;
-  width: 500px;
+  width: 35%;
 }
 
 .restaurant-list {
